@@ -46,4 +46,4 @@ git clone -b luci https://github.com/xiaorouji/openwrt-passwall.git package/luci
 # git clone https://github.com/xiaorouji/openwrt-passwall2.git package/openwrt-passwall2
 
 #openclash
-git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+#git clone https://github.com/vernesong/OpenClash.git package/OpenClash
